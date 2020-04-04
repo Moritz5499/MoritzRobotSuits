@@ -10,11 +10,10 @@
 		<baseCost>2000</baseCost>
 		<techLevel>Spacer</techLevel>
 		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-		<researchViewX>18.00</researchViewX>
+		<researchViewX>17.00</researchViewX>
 		<researchViewY>2</researchViewY>
 		<prerequisites>
-			<li>MultiAnalyzer</li>
-			<li>CataphractArmor</li>
+			<li>PoweredArmor</li>
 		</prerequisites>
 		<requiredResearchFacilities>
 			<li>MultiAnalyzer</li>
@@ -28,11 +27,10 @@
 		<baseCost>10000</baseCost>
 		<techLevel>Spacer</techLevel>
 		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-		<researchViewX>18.00</researchViewX>
+		<researchViewX>17.00</researchViewX>
 		<researchViewY>1.0</researchViewY>
 		<prerequisites>
-			<li>MultiAnalyzer</li>
-			<li>CataphractArmor</li>
+			<li>PoweredArmor</li>
 		</prerequisites>
 		<requiredResearchFacilities>
 			<li>MultiAnalyzer</li>

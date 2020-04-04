@@ -8,7 +8,7 @@
 		<description>Termal Suit usually used by working troops from advanced glitterworld planets.</description>
 		<techLevel>Spacer</techLevel>
 		<recipeMaker>
-      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <researchPrerequisite>PilotSuit</researchPrerequisite>
     </recipeMaker>
 		<graphicData>
 			<texPath>Things/RGApparel/RGTermalSuit/RGTermalSuit</texPath>
